@@ -1,9 +1,12 @@
-## Hi, My name is Guilherme 
+## Guilherme Cavazzini 👨‍💻
 
 <!--
 **guilhermeCavazzini-tech/guilhermeCavazzini-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+**`Cursando Engenharia de Computação(7/10)`**
 
+Olá me chamo Guilherme Cavazzini, tenho 21 anos e curso Engenharia de Computação na **`Faculdade de Tecnologia de Sinop(Fastech).`** 
+<p>Venho até aqui compartilhar meu desenvolvimento com a comunidade, sempre atrás de ser um desenvolvedor fullstack</p>
    <p align="left">
       <a href="https://github.com/guilhermeCavazzini-tech?tab=followers">
          <img alt="Seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/guilhermeCavazzini-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -13,15 +16,14 @@
 
 ---
 
-### 🧰 HardSkills
+### 🔧 HardSkills
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 <br />
 
 ### 📊 Estatísticas
