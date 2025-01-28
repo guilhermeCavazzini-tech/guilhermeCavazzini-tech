@@ -23,8 +23,11 @@ Olá me chamo Guilherme Cavazzini, tenho 21 anos e curso Engenharia de Computaç
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+
+   
 <br />
+
+---
 
 ### 📊 Estatísticas
 
@@ -43,3 +46,5 @@ Olá me chamo Guilherme Cavazzini, tenho 21 anos e curso Engenharia de Computaç
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeCavazzini-tech&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
