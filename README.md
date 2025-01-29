@@ -7,6 +7,7 @@
 
 Olá me chamo Guilherme Cavazzini, tenho 21 anos e curso Engenharia de Computação na **`Faculdade de Tecnologia de Sinop(Fastech).`** 
 <p>Venho até aqui compartilhar meu desenvolvimento com a comunidade, sempre atrás de ser um desenvolvedor fullstack</p>
+<p>Confira meu site em desenvovimento: <a href="https://guilhermecavazzini-tech.github.io/atividadesdolivro/">https://guilhermecavazzini-tech.github.io/atividadesdolivro/</a></p>
    <p align="left">
       <a href="https://github.com/guilhermeCavazzini-tech?tab=followers">
          <img alt="Seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/guilhermeCavazzini-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
